@@ -89,6 +89,7 @@
     <Compile Include="ConditionalSetupFixture.cs" />
     <Compile Include="CustomMatcherFixture.cs" />
     <Compile Include="ExtensionsFixture.cs" />
+    <Compile Include="InstanceMockFixture.cs" />
     <Compile Include="Linq\MockRepositoryQuerying.cs" />
     <Compile Include="MockSequenceFixture.cs" />
     <Compile Include="Linq\SupportedQuerying.cs" />
